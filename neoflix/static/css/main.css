@@ -1,0 +1,33 @@
+.myclass {
+	margin-top:5% !important; 
+	text-align: center;
+    	width: 100% !important;
+    	margin: auto;
+}
+
+.myclass2 {
+    margin-top: 0.75% !important;
+    text-align: left;
+    width: 41% !important;
+    margin: auto;
+    border: 1px solid;
+    border-radius: 10px;
+    border-color: #bbb;
+    padding: 18px;
+}
+
+
+.myclass3 {
+margin-top: 0.75% !important;
+margin: auto;
+    border: 0.5px solid;
+    border-radius: 10px;
+    border-color: #ddd;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding: 12px;
+}
+
+small{
+ font-size: 110% !important;
+}

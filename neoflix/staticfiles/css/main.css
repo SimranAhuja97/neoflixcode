@@ -1,0 +1,12 @@
+body {
+    background: #D35151;
+}
+
+.container {
+    padding: 5px;
+    background: #eee;
+    margin: 10 10 10 10;
+    box-shadow: 2px;
+    width: 70%;
+    margin: auto;
+}
